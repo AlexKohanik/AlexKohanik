@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlexKohanik
-- 👀 I’m interested in Cyber Security, Rust Programming, and Python Programming
-- 🌱 I’m currently learning Rust Programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🎓 I’m currently studying ... Computing & Informatics w/ a concentration in Cybersecurity @RowanUniversity
+- 🧠 I’m currently learning ... Rust Programming & Python Programming! I recently achieved a certificate of undergraduate studies in MIS as well!
+- 💞️ I’m looking to collaborate on ... anything Cybersecurity & Database related!
+- 📫 How to reach me ... contact "Kohani15@students.rowan.edu" or check out my Linkedin: https://www.linkedin.com/in/alexander-kohanik-a3b8521a2/ 
 
 <!---
 AlexKohanik/AlexKohanik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
